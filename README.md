@@ -1,6 +1,6 @@
 # Projeto da disciplina Estatística e Probabilidade
 </br>
-<h3> UFAL - Arapiraca | Ciência da Computação | 2º Período </h3>
+<h3> UFAL - Arapiraca | Ciência da Computação | 2º Período 2017.2 </h3>
 Desenvolvedores:
 <ul>
   <li>
